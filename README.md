@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I am [Karlo]
+I am Karlo
 a full-stack web developer from 🇮🇹 
 
 ## 💻 Development stack of my ❤️
