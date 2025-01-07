@@ -1,16 +1,18 @@
 ## Hi there 👋
 
 
-I am Karlo
-a full-stack web developer from 🇮🇹 
+I'm Karlo, and I'm on an exciting journey to become a developer! 🚀  
+Currently, I'm diving into the fundamentals of web development, and here's what I've learned so far:  
 
-## 💻 Development stack of my ❤️
+- 🌟 **HTML**: Structuring the web like a pro!  
+- 🎨 **CSS**: Styling and bringing life to my web pages.  
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+But the journey doesn't stop here! I'll be mastering **JavaScript** to add interactivity and logic to my creations. ⚡
+
+🌱 **Next Steps**:  
+- Sharpen my skills in JavaScript.  
+- Build awesome web projects to put my knowledge into practice.  
+- Explore more programming languages and tools as I grow.
 
 ## 🔧 Other tools
 
