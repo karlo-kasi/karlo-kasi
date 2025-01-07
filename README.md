@@ -14,7 +14,7 @@ But the journey doesn't stop here! I'll be mastering **JavaScript** to add inter
 - Build awesome web projects to put my knowledge into practice.  
 - Explore more programming languages and tools as I grow.
 
-## 🔧 Other tools
+## 🔧 Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
