@@ -4,7 +4,7 @@
 I'm Karlo, and I'm on an exciting journey to become a developer! 🚀  
 Currently, I'm diving into the fundamentals of web development, and here's what I've learned so far:  
 
-- 🌟 **HTML**: Structuring the web like a pro!  
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />: Structuring the web like a pro!  
 - 🎨 **CSS**: Styling and bringing life to my web pages.  
 
 But the journey doesn't stop here! I'll be mastering **JavaScript** to add interactivity and logic to my creations. ⚡
