@@ -1,23 +1,22 @@
-## Hi there 👋
+<!--
+**giuppiF/giuppiF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+I am Karlo
+a software developer from 🇮🇹 with a strong interest in
+web applications.
 
-
-I'm Karlo, and I'm on an exciting journey to become a developer! 🚀  
-Currently, I'm diving into the fundamentals of web development, and here's what I've learned so far:  
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> Structuring the web like a pro!  
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> Styling and bringing life to my web pages.  
-
-But the journey doesn't stop here! I'll be mastering **JavaScript** to add interactivity and logic to my creations. ⚡
-
-🌱 **Next Steps**:  
-- Sharpen my skills in JavaScript.  
-- Build awesome web projects to put my knowledge into practice.  
-- Explore more programming languages and tools as I grow.
-
-## 🔧 Tools
+## 💻 Development stack of my ❤️
 
 <p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+## 🔧 Other tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
