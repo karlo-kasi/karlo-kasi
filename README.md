@@ -21,4 +21,5 @@ A software developer from 🇮🇹 with a strong interest in web applications.
 ### 🔹 Other Tools  
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </p>
