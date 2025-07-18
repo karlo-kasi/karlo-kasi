@@ -34,9 +34,13 @@
 
 <h2>📬 How to reach me</h2>
 
-<p>
-  <a href="mailto:karlo.kasi.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/karlo-kasi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+<ul>
+  <li>
+    📧 <a href="mailto:karlo.kasi.dev@gmail.com">karlo.kasi.dev@gmail.com</a>
+  </li>
+  <li>
+    🔗 <a href="https://www.linkedin.com/in/karlo-kasi" target="_blank">LinkedIn</a>
+  </li>
+</ul>
 
-<p align="center">Thanks for visiting! 🙏</p>
+<p>Thanks for visiting! 🙏</p>
