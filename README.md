@@ -14,9 +14,7 @@
 <h3>🔹Frontend🔹</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,tailwind" />
   </a>
 </p>
 
