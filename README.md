@@ -5,37 +5,9 @@
 
 <h2>💻 Tech Stack I Love Working With</h2>
 
-<h3>🔹Languages🔹</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,cs" />
-  </a>
-</p>
-<h3>🔹Frontend🔹</h3>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,tailwind" />
-  </a>
-</p>
-
-<h3>🔹Backend🔹</h3>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
-  </a>
-</p>
-
-<h3>🔹Database🔹</h3>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-  </a>
-</p>
-
-<h3>🔹Tools & Other🔹</h3>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,docker,postman,vite" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,nodejs,express,react,angular,bootstrap,tailwind,mysql,mongodb,visualstudio,vscode,git,docker,postman,vite" />
   </a>
 </p>
 
