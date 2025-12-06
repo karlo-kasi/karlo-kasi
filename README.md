@@ -13,8 +13,6 @@
 
 <hr />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karlo-kasi&hide=HTML,CSS)
-
 <h2>📬 How to reach me</h2>
 
 <ul>
