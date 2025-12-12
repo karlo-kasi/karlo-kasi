@@ -1,6 +1,3 @@
-<h1>👋 Hi, I'm Karlo!</h1>
-<p>A passionate Full Stack Web Developer from 🇮🇹 Italy, with a strong focus on building modern, performant web applications.</p>
-
 <h2>💻 Tech Stack I Love Working With</h2>
 
 <p>
